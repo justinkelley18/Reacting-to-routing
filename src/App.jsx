@@ -1,8 +1,8 @@
 import { BrowserRouter, Link, Switch, Route } from 'react-router-dom';
 
-import Home from "./Pages/Home";
-import Film from "./Pages/Films"
-import People from "./Pages/People"
+import Home from "./pages/Home";
+import Film from "./pages/Films"
+import People from "./pages/People"
 //Create Three Links that look like buttons "Go Home" "View Films" "View People"
 const App = () => {
     return (
